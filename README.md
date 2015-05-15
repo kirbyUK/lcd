@@ -2,7 +2,7 @@ lcd
 ===
 
 Simple program for writing to a Raspberry Pi LCD. It is set up to work with
-[16x2](www.adafruit.com/product/181) LCDs, set up following Adafruit's
+[16x2](http://www.adafruit.com/product/181) LCDs, set up following Adafruit's
 [tutorial](https://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi).
 
 Usage
@@ -22,7 +22,7 @@ Requires root!
 Building
 --------
 
-The program requires the [wiringPi](wiringpi.com) library, instructs to install
+The program requires the [wiringPi](http://wiringpi.com) library, instructs to install
 are located on the website. Once installed, building this program is as simple
 as
 
